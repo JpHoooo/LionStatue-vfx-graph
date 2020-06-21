@@ -8,4 +8,4 @@
 
 ***
 ## 效果预览
-[!LionStatue](https://jp-github.oss-cn-shenzhen.aliyuncs.com/LionStatue-vfx-graph/gif/lion.gif)
+![LionStatue](https://jp-github.oss-cn-shenzhen.aliyuncs.com/LionStatue-vfx-graph/gif/lion.gif)
